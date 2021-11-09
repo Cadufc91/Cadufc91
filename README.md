@@ -8,10 +8,10 @@
 - 📍 I'm from Rio de Janeiro, RJ - Brazil
 
 ## Github Stats
-<div align="left">
+<div align="center">
   <a href="https://github.com/Cadufc91">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cadufc91&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cadufc91&layout=compact&langs_count=7&theme=dark"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=cadufc91&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cadufc91&layout=compact&langs_count=7&theme=dark"/>
 </div>
  
 ## Languages and Tools  
