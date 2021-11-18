@@ -3,8 +3,8 @@
 - 👔 Looking for new opportunities
 - 🌱 I’m currently learning HTML, CSS and JavaScript
 - 😄 Pronouns: He/Him
-- 🌎 I spealk Portuguese and English
-- ⚡ Fun fact: I love to play volleyball in my free time ;)
+- 🌎 I speak Portuguese and English
+- ⚡ Fun fact: I play volleyball in my free time ;)
 - 📍 I'm from Rio de Janeiro, RJ - Brazil
 
 ## Github Stats
