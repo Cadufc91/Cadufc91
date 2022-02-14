@@ -1,7 +1,7 @@
 ### Hi there, Cadu here!👋
 
 - 👔 Looking for new opportunities
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning React
 - 😄 Pronouns: He/Him
 - 🌎 I speak Portuguese and English
 - ⚡ Fun fact: I play volleyball in my free time ;)
